@@ -6,6 +6,8 @@ This is mostly experimental code.
 Code is (c) Henner Zeller <h.zeller@acm.org>, and I grant you the permission
 to do whatever you want with it :)
 
+Update 21/7/14 ejtomlins - Merged Henner's code with Boomerific's changes to make it a 16x32 matrix which will run as a daemon.  No code is mine.
+
 Overview
 --------
 The 32x32 RGB LED matrix panels can be scored at AdaFruit or eBay. If you are
